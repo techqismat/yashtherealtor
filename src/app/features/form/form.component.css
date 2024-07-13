@@ -1,0 +1,32 @@
+label {
+  color: white;
+  font-size: 2vw;
+  padding-right: 1em;
+}
+
+input {
+  padding: 1vw;
+  /* border: solid;
+  border-radius: 0.25em;
+  border-color: rgb(9, 184, 175); */
+}
+
+.form-group {
+  padding: 2em;
+  display: inline-table;
+}
+
+.form-control {
+  resize:both;
+}
+
+.message {
+  resize: both;
+  width: 5vw;
+  height: 5vw;
+}
+
+.text-danger {
+  color: red;
+  font-size: 2vw;
+}
